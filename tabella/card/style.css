@@ -1,0 +1,36 @@
+a:hover {
+    color: rgb(0, 0, 189);
+}
+
+a {
+    color: rgb(57, 57, 217);
+}
+body {
+    border: 0.1px solid; border-color: lightgrey;
+    border-radius: px;
+    margin-right: 1150px;
+    text-align: left;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+h2 {
+    background-color: rgb(151, 151, 159);
+    text-align: center;
+    color:rgb(213, 213, 213);
+    padding: 80px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -20px;
+    font-size: small;
+}
+
+hr {
+    width: 280px;
+    margin-left: -20px;
+}
+
+h1 {
+    font-weight: normal;
+}
